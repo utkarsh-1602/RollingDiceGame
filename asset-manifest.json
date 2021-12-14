@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RollingDiceGame/static/css/main.d3cfcebb.chunk.css",
+    "main.js": "/RollingDiceGame/static/js/main.d3f8eb3d.chunk.js",
+    "main.js.map": "/RollingDiceGame/static/js/main.d3f8eb3d.chunk.js.map",
+    "runtime-main.js": "/RollingDiceGame/static/js/runtime-main.7426a962.js",
+    "runtime-main.js.map": "/RollingDiceGame/static/js/runtime-main.7426a962.js.map",
+    "static/js/2.a6475e82.chunk.js": "/RollingDiceGame/static/js/2.a6475e82.chunk.js",
+    "static/js/2.a6475e82.chunk.js.map": "/RollingDiceGame/static/js/2.a6475e82.chunk.js.map",
+    "static/js/3.355d8f6c.chunk.js": "/RollingDiceGame/static/js/3.355d8f6c.chunk.js",
+    "static/js/3.355d8f6c.chunk.js.map": "/RollingDiceGame/static/js/3.355d8f6c.chunk.js.map",
+    "index.html": "/RollingDiceGame/index.html",
+    "static/css/main.d3cfcebb.chunk.css.map": "/RollingDiceGame/static/css/main.d3cfcebb.chunk.css.map",
+    "static/js/2.a6475e82.chunk.js.LICENSE.txt": "/RollingDiceGame/static/js/2.a6475e82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7426a962.js",
+    "static/js/2.a6475e82.chunk.js",
+    "static/css/main.d3cfcebb.chunk.css",
+    "static/js/main.d3f8eb3d.chunk.js"
+  ]
+}
