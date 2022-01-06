@@ -1,9 +1,11 @@
-#Live 
-https://utkarsh-1602.github.io/RollingDiceGame/
+
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+##Live App
+https://utkarsh-1602.github.io/RollingDiceGame/
 
 ## Available Scripts
 
